@@ -15,6 +15,6 @@ Data | Atividade
 
 ## Entregas
 Postado | Quem entregou | Atividade
------------- | ------------
+------------ | ------------ | ------------
 12/10/2017 | Paulo Cezar | Introducao_css (como importar css em html)
 12/10/2017 | Paulo Cezar | Atacando_elementos (como importar css em html)
