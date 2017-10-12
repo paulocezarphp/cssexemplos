@@ -11,4 +11,4 @@ Paulo Cezar | Gerente de projeto
 Data | Atividade
 ------------ | ------------
 12/10/2017 | Primeiro passo (como importar css em html)
-12/09
+12/09/2017 | Segundo passo (Atacando Elementos)
